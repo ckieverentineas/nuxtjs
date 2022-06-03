@@ -2,11 +2,7 @@
 <template>
   <div id="main">
     <div id="nav">
-      <img id="logo" src="favicon.ico"/>
-      <div> Каталог </div>
-      <div> О нас </div>
-      <div> Контакты </div>
-      <img id="cart" src="cart.png"/>
+      <div> Промышленная Автоматика, ОАО "Промышленная Автоматика", 2022 </div>
     </div>
   </div>
 </template>
